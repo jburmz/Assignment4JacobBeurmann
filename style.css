@@ -1,0 +1,18 @@
+.title
+{
+	width: 400px;
+	display: block;
+	font-size: 160%;
+	padding-bottom: 1em;
+	margin: auto;
+}
+
+.panel
+{
+    width: 410px;
+	font-size: 140%;
+    height: 32px;
+    border: 1px solid black;
+    display: block;
+	margin: auto;
+}
